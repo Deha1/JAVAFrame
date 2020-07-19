@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 7 resources" deleteContents="false" description="Delete 7 resources" element1="/coco-parent" element2="/coco-service" element3="/coco-mapper" element4="/coco-common" element5="/coco-manager" element6="/coco-web" element7="/coco-pojo" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="7" stamp="1560327285101"/>
+</session>

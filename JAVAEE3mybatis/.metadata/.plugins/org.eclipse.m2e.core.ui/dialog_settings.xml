@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\HY\Desktop\CoCo-master\coco-parent"/>
+			<item value="D:\Java笔记\Phase3 note\spring\ssm-plus"/>
+			<item value="D:\Java笔记\Phase3 note\spring\v0z6xp"/>
+			<item value="D:\Java笔记\Phase3 note\spring\ssmweibo01"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-rest"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-portal"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-sso"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-search"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-order"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-common"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-manager"/>
+			<item value="D:\Java笔记\淘淘商城\Code\taotao-parent"/>
+			<item value="D:\Java笔记\Phase3 note\spring\study-spring11"/>
+			<item value="D:\Java笔记\Phase3 note\spring\study-spring10"/>
+			<item value="D:\Java笔记\Phase3 note\spring\study-spring09"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\JAVAEE3mybatis"/>
+			<item value="D:\Java笔记\Phase3 note\spring\ssmweibo01"/>
+			<item value="D:\Java笔记\Phase3 note\spring\ssm-demo\pom.xml"/>
+			<item value="D:\Java笔记\Phase3 note\mybatis"/>
+			<item value="D:\Java笔记\Phase3 note\mybatis\edu-mybatis"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.zdh.edu"/>
+			<item value="com.zdh"/>
+		</list>
+		<list key="groupId">
+			<item value="com.zdh.edu"/>
+			<item value="com.zdh"/>
+		</list>
+		<list key="artifactId">
+			<item value="edu-mybatis2042"/>
+			<item value="edu-mybatis304"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

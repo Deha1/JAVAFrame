@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;spring-aop-4.3.7.RELEASE.jar&apos; to &apos;jars&apos;&#x0D;&#x0A;- Original project: &apos;spring02&apos;&#x0D;&#x0A;- Destination element: &apos;jars&apos;&#x0D;&#x0A;- Original element: &apos;spring-aop-4.3.7.RELEASE.jar&apos;" description="Copy file" element1="jars/spring-aop-4.3.7.RELEASE.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1547741881027" target="/zSpring02/jars" units="0" version="1.0"/>
+</session>

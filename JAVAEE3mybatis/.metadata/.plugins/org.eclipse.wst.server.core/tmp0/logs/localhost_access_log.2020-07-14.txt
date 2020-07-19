@@ -1,0 +1,8 @@
+127.0.0.1 - - [14/Jul/2020:17:39:21 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [14/Jul/2020:17:39:23 +0800] "GET /xspringmvc04/ HTTP/1.1" 200 279
+0:0:0:0:0:0:0:1 - - [14/Jul/2020:17:39:39 +0800] "GET /xspringmvc04/admin/hello1.htm HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [14/Jul/2020:17:42:10 +0800] "GET /xspringmvc04/admin/hello1.htm HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [14/Jul/2020:17:42:11 +0800] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [14/Jul/2020:17:42:19 +0800] "GET /xspringmvc04/admin/hello1.htm HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [14/Jul/2020:17:42:25 +0800] "GET /xspringmvc04/admin/hello1.htm HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [14/Jul/2020:17:42:44 +0800] "GET /xspringmvc04/admin/hello1.htm HTTP/1.1" 200 16

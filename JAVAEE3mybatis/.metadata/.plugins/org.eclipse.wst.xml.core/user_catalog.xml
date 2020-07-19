@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <public publicId="-//mybatis.org//DTD Mapper 3.0//EN" uri="file:///D:/files/code-mybatis/mybatis-3.4.6/mybatis-3.4.6/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd"/>
+  <system systemId="http://www.springframework.org/schema/spring-beans-4.3.xsd" uri="file:///D:/files/code-spring/官方包/spring-framework-4.3.7.RELEASE/schema/beans/spring-beans-4.3.xsd"/>
+  <uri name="http://www.springframework.org/schema/beans" uri="file:///D:/files/code-spring/官方包/spring-framework-4.3.7.RELEASE/schema/context/spring-context-4.3.xsd"/>
+  <uri name="http://www.springframework.org/schema/context" uri="file:///D:/files/code-spring/官方包/spring-framework-4.3.7.RELEASE/schema/context/spring-context-4.3.xsd"/>
+  <system systemId="http://www.springframework.org/schema/spring-context-4.3.xsd" uri="file:///D:/files/code-spring/官方包/spring-framework-4.3.7.RELEASE/schema/context/spring-context-4.3.xsd"/>
+</catalog>

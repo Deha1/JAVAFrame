@@ -1,0 +1,13 @@
+127.0.0.1 - - [07/Aug/2019:09:27:34 +0800] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:27:34 +0800] "GET /springmvc4/ HTTP/1.1" 200 279
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:27:57 +0800] "GET /springmvc4/admin/hi3.htm HTTP/1.1" 500 5242
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:28:47 +0800] "GET /springmvc4/admin/hi.htm HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:29:02 +0800] "GET /springmvc4/admin/hi.htm HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:29:13 +0800] "GET /springmvc4/admin/hi.htm HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:30:09 +0800] "GET /springmvc4/admin/hi.htm HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:30:48 +0800] "GET /springmvc4/admin/hi.htm HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:31:22 +0800] "GET /springmvc4/admin/hi3.htm HTTP/1.1" 500 5242
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:32:05 +0800] "GET /springmvc4/admin/hi3.htm HTTP/1.1" 200 409
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:33:26 +0800] "GET /springmvc4/admin/hi3.htm HTTP/1.1" 500 5242
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:33:27 +0800] "GET /springmvc4/admin/hi3.htm HTTP/1.1" 500 5242
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:09:33:29 +0800] "GET /springmvc4/admin/hi3.htm HTTP/1.1" 500 5242
